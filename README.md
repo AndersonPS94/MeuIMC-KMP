@@ -72,7 +72,7 @@ cd MeuIMC
 # Abra o projeto no Android Studio e execute no emulador ou dispositivo real.
 ```
 
-
+---
 ## 🤝 Contribuição
  Contribuições são bem-vindas! Para contribuir, siga os passos:
 
@@ -86,7 +86,7 @@ cd MeuIMC
 
 5- Abra um Pull Request.
 
-
+---
 ## 📜 Licença
 ```
 The MIT License (MIT)
