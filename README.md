@@ -1,6 +1,9 @@
 # 📱 MeuIMC - Aplicativo para estudo do KMP
 
->tem como principal funcionalidade, calcular o IMC e exibir o resultado para o usuario
+## 📖 Sobre o projeto
+MeuIMC é um aplicativo multiplataforma desenvolvido com **Kotlin Multiplatform (KMP)** para Android e iOS. Seu principal objetivo é calcular o Índice de Massa Corporal (**IMC**) do usuário e exibir o resultado de forma intuitiva. 
+
+O projeto foi criado como um estudo prático de **KMP**, permitindo compartilhar a lógica de cálculo entre Android e iOS, enquanto as interfaces foram desenvolvidas com **Jetpack Compose (Android)** e **SwiftUI (iOS)**.
 ---
 
 ## 📸 Demonstração  
@@ -30,11 +33,9 @@
 ## 🛠️ Tecnologias Utilizadas  
 Este projeto foi desenvolvido com as seguintes tecnologias:  
 
-✅ **Kotlin**  
-✅ **Swift**  
-✅ **KMP**  
-✅ **Jetpack Compose**  
-
+✅ **Kotlin Multiplatform (KMP)**  
+✅ **Jetpack Compose** (para UI no Android)  
+✅ **SwiftUI** (para UI no iOS)  
 ---
 
 
@@ -42,10 +43,19 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## 📄 Aprendizados
 Durante o desenvolvimento deste projeto, aprendi sobre:
 
-✅ Jepack Compose.        
-✅ Swift.        
-✅ KMP.              
+✅ **Kotlin Multiplatform (KMP)** para compartilhamento de código entre Android e iOS.  
+✅ **Jetpack Compose** para criação de interfaces modernas e declarativas no Android.  
+✅ **SwiftUI** para construção da UI no iOS.           
 
+---
+
+## ⚙️ Pré-requisitos
+Antes de executar o projeto, certifique-se de ter instalado:
+
+- **Android Studio Flamingo ou superior**  
+- **Xcode 14+** (para rodar no iOS)  
+- **Kotlin 1.9+**  
+- **Emulador ou dispositivo físico Android/iOS**
 ---
 
 ## 🚀 Como Executar  
@@ -54,13 +64,27 @@ Para rodar o projeto na sua máquina, siga estes passos:
 
 ```bash
 # Clone este repositório
-git clone https://github.com/AndersonPS94/MyIMC.git
+git clone https://github.com/AndersonPS94/MeuIMC.git
 
 # Acesse a pasta do projeto no terminal
-cd MyIMC
+cd MeuIMC
 
 # Abra o projeto no Android Studio e execute no emulador ou dispositivo real.
 ```
+
+
+## 🤝 Contribuição
+ Contribuições são bem-vindas! Para contribuir, siga os passos:
+
+1- Fork este repositório.
+
+2- Crie uma branch para sua funcionalidade (git checkout -b feature/nova-funcionalidade).
+
+3- Faça as alterações e commit (git commit -m "Adiciona nova funcionalidade").
+
+4- Envie para o repositório (git push origin feature/nova-funcionalidade).
+
+5- Abra um Pull Request.
 
 
 ## 📜 Licença
