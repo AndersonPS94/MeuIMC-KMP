@@ -1,4 +1,4 @@
-# 📱 MyIMC - Aplicativo para estudo do KMP
+# 📱 MeuIMC - Aplicativo para estudo do KMP
 
 >tem como principal funcionalidade, calcular o IMC e exibir o resultado para o usuario
 ---
